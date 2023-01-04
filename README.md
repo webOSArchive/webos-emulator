@@ -6,8 +6,6 @@ To make things easier in a modern era, <a href="http://www.webosarchive.org" tar
 
 **<a href="https://github.com/webOSArchive/webos-emulator/releases" target="_top">Download from GitHub</a>**
 
-<img src="https://docs.webosarchive.org/images/emulator.png" width="640" alt="Screenshot of OVA import dialog"> 
-
 ## Usage Notes
 
 The emulator includes a <a href="https://sdk.webosarchive.org/docs/docs.html#dev-guide/tools/radio-simulator.html" target="_blank">Radio Simulator</a> that lets you simulate events in the guest OS.
