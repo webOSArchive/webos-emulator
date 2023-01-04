@@ -6,7 +6,7 @@ To make things easier in a modern era, <a href="http://www.webosarchive.org" tar
 
 **<a href="https://github.com/webOSArchive/webos-emulator/releases" target="_top">Download from GitHub</a>**
 
-![OVA Creation](images/emulator.png)
+![OVA Creation](https://docs.webosarchive.org/images/emulator.png)
 
 ## Usage Notes
 
