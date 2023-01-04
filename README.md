@@ -1,4 +1,4 @@
-# webOS Emulator
+# Emulator
 
 The webOS SDK originally provided an emulator for development purposes, with disk images for major releases of the OS. Unfortunately, these were delivered as Java JARs with a corresponding tool to generate the VM in specific versions of VirtualBox.
 
@@ -6,7 +6,7 @@ To make things easier in a modern era, <a href="http://www.webosarchive.org" tar
 
 **<a href="https://github.com/webOSArchive/webos-emulator/releases" target="_top">Download from GitHub</a>**
 
-![Developer Mode](images/emulator.png)
+![OVA Creation](images/emulator.png)
 
 ## Usage Notes
 
