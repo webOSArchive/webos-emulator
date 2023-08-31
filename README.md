@@ -28,7 +28,7 @@ You can simulate some hardware events and states with keyboard shortcuts:
 
 ## Limitations
 
-Since its dervied from the SDK emulator, all the limitations of that emulator apply. From the SDK:
+Since its derived from the SDK emulator, all the limitations of that emulator apply. From the SDK:
 
 ---
 > Currently, the Emulator does not support the following:
